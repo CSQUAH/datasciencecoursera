@@ -1,4 +1,4 @@
-##FINAL PROJECT - GETTING AND CLEANING DATA COURSE
+## FINAL PROJECT - GETTING AND CLEANING DATA COURSE
 ### PURPOSE
 Demonstrate ability to collect, work with and clean a data set
 
@@ -28,7 +28,8 @@ The dataset includes the following files:
 
 
 ### DELIVERABLES
-1. a tidy data set	>> mean_subs_actv_data.txt
+1. a tidy data set	
+	>> https://github.com/CSQUAH/datasciencecoursera/tree/master/GettingCleaningData/ProjectAssignment/mean_subs_actv_data.txt
 2. A link to a Github repository with script for performing the analysis 
 	>> https://github.com/CSQUAH/datasciencecoursera/tree/master/GettingCleaningData/ProjectAssignment/run_analysis.R
 3. CodeBook.md : Code book that describes the variables, the data and any transformations or work that have been performed to clean up the data 
